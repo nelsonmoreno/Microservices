@@ -20,7 +20,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
  * Client controller, fetches Account info from the microservice via
  * {@link WebAccountsService}.
  * 
- * @author Paul Chapman
+ * @author
  */
 @Controller
 public class WebAccountsController {

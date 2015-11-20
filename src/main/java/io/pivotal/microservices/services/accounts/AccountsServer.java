@@ -22,7 +22,7 @@ import org.springframework.context.annotation.Import;
  * <li>As a microservice - by executing {@link AccountsServer#main(String[])}</li>
  * </ul>
  * 
- * @author Paul Chapman
+ * @author
  */
 @EnableAutoConfiguration
 @EnableDiscoveryClient

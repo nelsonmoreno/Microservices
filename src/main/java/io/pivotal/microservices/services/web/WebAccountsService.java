@@ -16,7 +16,7 @@ import org.springframework.web.client.RestTemplate;
 /**
  * Hide the access to the microservice inside this local service.
  * 
- * @author Paul Chapman
+ * @author
  */
 @Service
 public class WebAccountsService {

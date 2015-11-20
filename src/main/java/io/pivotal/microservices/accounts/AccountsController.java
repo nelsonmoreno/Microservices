@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * A RESTFul controller for accessing account information.
  * 
- * @author Paul Chapman
+ * @author
  */
 @RestController
 public class AccountsController {

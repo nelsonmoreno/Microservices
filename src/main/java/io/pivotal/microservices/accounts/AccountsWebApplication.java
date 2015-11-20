@@ -29,7 +29,7 @@ import org.springframework.jdbc.datasource.embedded.EmbeddedDatabaseBuilder;
  * <p>
  * To execute as a microservice, run {@link AccountsServer} instead.
  * 
- * @author Paul Chapman
+ * @author
  */
 @SpringBootApplication
 @EntityScan("io.pivotal.microservices.accounts")

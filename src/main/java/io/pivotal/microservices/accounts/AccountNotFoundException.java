@@ -8,7 +8,7 @@ import org.springframework.http.HttpStatus;
  * throwing this exception. The @ResponseStatus causes Spring MVC to return a
  * 404 instead of the usual 500.
  * 
- * @author Paul Chapman
+ * @author
  */
 @ResponseStatus(HttpStatus.NOT_FOUND)
 public class AccountNotFoundException extends RuntimeException {
