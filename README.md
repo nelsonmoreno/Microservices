@@ -30,5 +30,6 @@ En contraste una aplicación con microservicios consta de un conjunto de funcion
 * Si un a función requiere mayores capacidades de computo (RAM, CPU, …) pues solo esta función recibe el incremento de esta capacidad, las demás no. Esto hace que el cambio sea más rápido, menos complejo y mucho menos costoso.
 * Si una función falla, solo se debe trabajar en la recuperación de un microservicio, las demás funciones o microservicios no se ven afectados y siguen funcionando sin interrupciones. 
 * Las calidades sistémicas que requiere un sola función solo se le proveen a esa función. Por ejemplo si una función requiere un nivel de disponibilidad crítico está y solo esté será puesta en una zona del data center especial y monitoreada con herramientas especializadas para garantizar su buen desempeño; esto permite optimizar el uso de lo recursos de computo, destinándolos  a las funciones que realmente los requieren.
-* 
- [Continue leyendo sobre este tema en la wiki](https://github.com/nelsonmoreno/microservices/wiki)
+
+
+[Continue leyendo sobre este tema en la wiki](https://github.com/nelsonmoreno/microservices/wiki)
